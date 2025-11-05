@@ -1,0 +1,48 @@
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\BaseSimilObligatorioMVC\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\Base Práctico 8\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\airma\Desktop\Base Práctico 9\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\airma\OneDrive\Escritorio\Prácticos MVC\Dominio\obj\Debug\net7.0\ref\Dominio.dll

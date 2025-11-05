@@ -1,0 +1,24 @@
+﻿@using Dominio;
+
+<h1>Listado de barrios</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Codigo</th>
+            <th>Detalles</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @foreach (Barrio unB in ViewBag.ListadoDeBarrios)
+    {
+        <tr>
+            <td>@unB.Nombre</td>
+            <td>@unB.Codigo</td>
+            <td><a href="/Barrios/VerBarrio?codigo=@unB.Codigo">Ver barrio</a></td>
+        </tr>
+    }
+    </tbody>
+</table>
