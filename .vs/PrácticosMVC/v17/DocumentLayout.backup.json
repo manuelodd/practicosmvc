@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\barrios\\verbarrio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\barrios\\verbarrio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\barrios\\verbarrio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\casas\\ingresometros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\casas\\ingresometros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\barrios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\barrios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\controllers\\casascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\controllers\\casascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|solutionrelative:dominio\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\casas\\ingresometros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\casas\\ingresometros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\barrios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\barrios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\controllers\\casascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\controllers\\casascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\controllers\\barrioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\controllers\\barrioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\controllers\\barrioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\casas\\vercasasmayores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\practico7\\views\\casas\\vercasasmayores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E41AAA8B-72B4-4ADF-A956-E5E22B0823BB}|Practico7\\Practico7.csproj|solutionrelative:practico7\\views\\casas\\vercasasmayores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\alumnofi\\downloads\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\barrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|c:\\users\\lenovo\\desktop\\dominio mvc prog2\\pr\u00E1cticos mvc - dominio-20251104t150759z-1-001\\pr\u00E1cticos mvc - dominio\\pr\u00E1cticos mvc\\dominio\\barrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E049C77-0988-4D60-871C-36C6F7D80AF2}|Dominio\\Dominio.csproj|solutionrelative:dominio\\barrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Practico7\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Practico7\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BarriosController.cs",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\BarriosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\BarriosController.cs",
               "RelativeDocumentMoniker": "Practico7\\Controllers\\BarriosController.cs",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\BarriosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\BarriosController.cs",
               "RelativeToolTip": "Practico7\\Controllers\\BarriosController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\Index.cshtml",
               "RelativeDocumentMoniker": "Practico7\\Views\\Barrios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\Index.cshtml",
               "RelativeToolTip": "Practico7\\Views\\Barrios\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -92,12 +92,28 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Sistema.cs",
               "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Sistema.cs",
               "RelativeToolTip": "Dominio\\Sistema.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,9 +123,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "VerCasasMayores.cshtml",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
               "RelativeDocumentMoniker": "Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
               "RelativeToolTip": "Practico7\\Views\\Casas\\VerCasasMayores.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -117,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CasasController.cs",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\CasasController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\CasasController.cs",
               "RelativeDocumentMoniker": "Practico7\\Controllers\\CasasController.cs",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\CasasController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Controllers\\CasasController.cs",
               "RelativeToolTip": "Practico7\\Controllers\\CasasController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,38 +145,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IngresoMetros.cshtml",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\IngresoMetros.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\IngresoMetros.cshtml",
               "RelativeDocumentMoniker": "Practico7\\Views\\Casas\\IngresoMetros.cshtml",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\IngresoMetros.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Casas\\IngresoMetros.cshtml",
               "RelativeToolTip": "Practico7\\Views\\Casas\\IngresoMetros.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T12:48:15.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T12:48:15.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Casa.cs",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Casa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Casa.cs",
               "RelativeDocumentMoniker": "Dominio\\Casa.cs",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Casa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Casa.cs",
               "RelativeToolTip": "Dominio\\Casa.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T12:29:53.093Z"
+              "WhenOpened": "2025-11-04T12:29:53.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VerBarrio.cshtml",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\VerBarrio.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\VerBarrio.cshtml",
               "RelativeDocumentMoniker": "Practico7\\Views\\Barrios\\VerBarrio.cshtml",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\VerBarrio.cshtml",
-              "RelativeToolTip": "Practico7\\Views\\Barrios\\VerBarrio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Practico7\\Views\\Barrios\\VerBarrio.cshtml*",
+              "RelativeToolTip": "Practico7\\Views\\Barrios\\VerBarrio.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T11:50:53.414Z",
               "EditorCaption": ""
@@ -169,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Barrio.cs",
-              "DocumentMoniker": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Barrio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Barrio.cs",
               "RelativeDocumentMoniker": "Dominio\\Barrio.cs",
-              "ToolTip": "C:\\Users\\alumnoFI\\Downloads\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Barrio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\DOMINIO MVC PROG2\\Pr\u00E1cticos MVC - Dominio-20251104T150759Z-1-001\\Pr\u00E1cticos MVC - Dominio\\Pr\u00E1cticos MVC\\Dominio\\Barrio.cs",
               "RelativeToolTip": "Dominio\\Barrio.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

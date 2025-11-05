@@ -1,7 +1,9 @@
 ﻿@using Dominio;
+@model List<Barrio>;
 
 <h1>Listado de barrios</h1>
 
+<h2>*CON VIEWBAG*</h2>
 <table class="table table-striped">
     <thead>
         <tr>
@@ -11,14 +13,37 @@
         </tr>
     </thead>
 
+    <!--viewbag es dinamico, case insensitive y no hay necesidad de castear-->
     <tbody>
-    @foreach (Barrio unB in ViewBag.ListadoDeBarrios)
-    {
-        <tr>
-            <td>@unB.Nombre</td>
-            <td>@unB.Codigo</td>
-            <td><a href="/Barrios/VerBarrio?codigo=@unB.Codigo">Ver barrio</a></td>
-        </tr>
-    }
+        @foreach (Barrio unB in ViewBag.ListadoDeBarrios)
+        {
+            <tr>
+                <td>@unB.Nombre</td>
+                <td>@unB.Codigo</td>
+                <td><a href="/Barrios/VerBarrio?codigo=@unB.Codigo">Ver barrio</a></td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<h2>*CON VIEWDATA*</h2>
+<ul>
+    <!--con viewdata tenes que castear a la entrada del diccionario al tipo de dato adecuado-->
+    @foreach (Barrio unB in (List<Barrio>)ViewData["barrios"])
+    {
+        <li>
+            @unB.Nombre @unB.Codigo <a href="/Barrios/VerBarrio?codigo=@unB.Codigo">Ver barrio</a>
+        </li>
+    }
+</ul>
+
+<h2>*CON MODEL*</h2>
+<ul>
+    <!--con viewdata tenes que castear a la entrada del diccionario al tipo de dato adecuado-->
+    @foreach (Barrio unB in Model)
+    {
+        <li>
+            @unB.Nombre @unB.Codigo <a href="/Barrios/VerBarrio?codigo=@unB.Codigo">Ver barrio</a>
+        </li>
+    }
+</ul>

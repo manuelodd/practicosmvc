@@ -36,3 +36,41 @@ C:\Users\alumnoFI\Downloads\Prácticos MVC - Dominio\Prácticos MVC\Practico7\bi
 C:\Users\alumnoFI\Downloads\Prácticos MVC - Dominio\Prácticos MVC\Practico7\bin\Debug\net8.0\Dominio.pdb
 C:\Users\alumnoFI\Downloads\Prácticos MVC - Dominio\Prácticos MVC\Practico7\obj\Debug\net8.0\Practico7.csproj.AssemblyReference.cache
 C:\Users\alumnoFI\Downloads\Prácticos MVC - Dominio\Prácticos MVC\Practico7\obj\Debug\net8.0\Practico7.csproj.Up2Date
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\appsettings.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.staticwebassets.runtime.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.staticwebassets.endpoints.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.exe
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.deps.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.runtimeconfig.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.dll
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Practico7.pdb
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Dominio.dll
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\bin\Debug\net8.0\Dominio.pdb
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.RazorAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.sourcelink.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\scopedcss\bundle\Practico7.styles.css
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\scopedcss\projectbundle\Practico7.bundle.scp.css
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.csproj.Up2Date
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.dll
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\refint\Practico7.dll
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.pdb
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\Practico7.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\mvcgit\Practico7\obj\Debug\net8.0\ref\Practico7.dll
